@@ -7,11 +7,11 @@ Como te comenté en la entrega anterior, decidí mudar de base de datos a una de
 
 El archivo a evaluar es:
 
-    **"La_Transformancion_del_Mundo_en_los_Ultimos_60_anos.ipynb**
+    "La_Transformancion_del_Mundo_en_los_Ultimos_60_anos.ipynb"
 
 La base de datos que estoy utilizando es:
 
-    **"world_development_indicator_1960-2023.csv"**
+    "world_development_indicator_1960-2023.csv"
 
 
 Actualizaciones para las entregas:
