@@ -17,6 +17,9 @@ La base de datos que estoy utilizando es:
 Actualizaciones para las entregas:
 
     Entrega del 07.05.24:
-    Debido a que comencé a limpiar y transcribir el código para la nueva base de datos, aun no he alcanzado a pasarlo completo. Me enfoqué en desarrollar el concepto de story telling para esta entrega. Por lo que estoy colocando más texto para comentar el código mientras avanzo y agregué toda una sección al comienzo.
+        Debido a que comencé a limpiar y transcribir el código para la nueva base de datos, aun no he alcanzado a pasarlo completo. Me enfoqué en desarrollar el concepto de story telling para esta entrega. Por lo que estoy colocando más texto para comentar el código mientras avanzo y agregué toda una sección al comienzo.
 
+    Entrega del 21.05.24:
+        Adjunto el archivo actualizado con la entrega de los Insights. aun faltan por desarrollar, pero creo que vamos bien encaminados.
+        
 
