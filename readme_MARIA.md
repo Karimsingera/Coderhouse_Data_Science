@@ -21,5 +21,9 @@ Actualizaciones para las entregas:
 
     Entrega del 21.05.24:
         Adjunto el archivo actualizado con la entrega de los Insights. aun faltan por desarrollar, pero creo que vamos bien encaminados.
-        
+
+
+    Entrega del 28.05.24:
+        Hola María. Adjunto el archivo actualizado con la entrega de insights a partir de imágenes, no pude desarrollarlas todas, pero avancé bastate.
+        Además va un archivo .html "Informe_Perfilado_Indicadores_Desarrollo_Mundial" que es un yprofiling. Originalmente lo había incluído en el mismo archivo de trabajo, pero noté que estaba haciendo que corriera demasiado lento, por lo que lo guardé como archivo aparte.
 
