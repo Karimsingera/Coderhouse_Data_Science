@@ -1,9 +1,6 @@
-Hola María! Qué tal?
+Hola Mariano! Qué tal?
 
-Quería contarte que estoy intentando pasarme a github para lo que queda del curso, intentando hacerlo como nos han recomendado. por lo tanto en las sucesivas entregas iré haciendo commits para mantener los archivos actualizados.
-
-
-Como te comenté en la entrega anterior, decidí mudar de base de datos a una del World Bank que está más completa. Por lo tanto he ido reescribiendo desde 0 mi trabajo. 
+Te dejo una explicación de los archivos del repositorio para evaluar:
 
 El archivo a evaluar es:
 
@@ -29,4 +26,7 @@ Actualizaciones para las entregas:
 
     **Entrega del 11.06.24:**
         Hola María. Te adjunto el archivo actualizado con la entrega del modelo de machine learning. No estoy entendiendo mucho, la verdad es que es lo que más me ha constado. Intentaré seguir investigando, pero te agracerecía mucho cualquier guía. Abrazos!
+
+    **Entrega del 20.06.24:**
+        Hola Mariano! que tal? te dejo el archivo actualizado para el desafío. Lo que hice fue probar nuevos modelos de ML. Aun no entiendo mucho el proceso y estoy tomando algunas leciones online para entender mejor. Para poder hacer la entrega tuve que apoyarme principalmente en chatGPT, por lo que debo entender mejor qué es lo que voy haciendo. Ya espero pronto entenderlo mejor. Quedo atento a tus comentario. Abrazos!
 
