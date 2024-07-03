@@ -30,3 +30,7 @@ Actualizaciones para las entregas:
     **Entrega del 20.06.24:**
         Hola Mariano! que tal? te dejo el archivo actualizado para el desafío. Lo que hice fue probar nuevos modelos de ML. Aun no entiendo mucho el proceso y estoy tomando algunas leciones online para entender mejor. Para poder hacer la entrega tuve que apoyarme principalmente en chatGPT, por lo que debo entender mejor qué es lo que voy haciendo. Ya espero pronto entenderlo mejor. Quedo atento a tus comentario. Abrazos!
 
+    **Entrega del 02.07.24:**
+        Hola Mariano!! actualicé el archivo para el último desafío, sigo tomando muchos tutoriales de cómo implomentar los algoritmos de ML pues es lejos lo que más me ha costado del curso, pero bueno, vamos que vamos. Abrazos y quedo atento a tus comentarios.
+        
+
