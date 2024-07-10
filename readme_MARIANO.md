@@ -33,4 +33,7 @@ Actualizaciones para las entregas:
     **Entrega del 02.07.24:**
         Hola Mariano!! actualicé el archivo para el último desafío, sigo tomando muchos tutoriales de cómo implomentar los algoritmos de ML pues es lejos lo que más me ha costado del curso, pero bueno, vamos que vamos. Abrazos y quedo atento a tus comentarios.
         
+    **Entrega del 09.07.24:**
+        Hola Mariano! actualicé el archivo para el desafío complementario de cross validation. Abrazos!
+        
 
