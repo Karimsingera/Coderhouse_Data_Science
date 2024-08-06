@@ -36,4 +36,5 @@ Actualizaciones para las entregas:
     **Entrega del 09.07.24:**
         Hola Mariano! actualicé el archivo para el desafío complementario de cross validation. Abrazos!
         
-
+    **ENTREGA FINAL**
+    	Hola Mariano! Te adjunto el trabajo final. Quedo atento a los comentarios y ajustes necesarios. Un abrazo!
